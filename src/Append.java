@@ -1,4 +1,4 @@
-public class Main {
+public class Append {
     public static void main(String[] args) {
         //create StringBuilder object
         StringBuilder text = new StringBuilder("I Love ProJavaSite!");
